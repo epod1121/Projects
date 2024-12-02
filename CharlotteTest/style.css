@@ -1,0 +1,35 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: linear-gradient(45deg, #06701e, #28a349, #106c25);
+    height: auto; 
+    margin: 0; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+button {
+    color: lightcyan;
+    background-color: gray;
+    font-size: x-large;
+}
+
+.hidden{
+    display: none;
+}
+
+.heartImage {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+    transition: transform 0.3s ease-in-out;
+}

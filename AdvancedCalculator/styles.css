@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    font-size: x-large;
+    background-color: rgb(28, 36, 36);
+    text-align: auto;
+}
+
+textarea {
+    background-color: gray;
+    resize: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 75px;
+    width: 1000px;
+    height: 90px;
+    text-align: right;
+    margin-bottom: -23px;
+}
+
+button {
+    border: none;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+    width: 220px;
+}
+
+.function, .number {
+    font-size: 70px;
+}
+
+.number {
+    width: 186px;
+    background-color: rgb(162, 87, 212);
+}
+
+.function{
+    background-color: rgb(96, 130, 84);
+}
+
+.special {
+    width: 321px;
+    background-color: rgb(60, 126, 50);
+}
+
+.equal {
+    background-color: rgb(35, 58, 37);
+    color: white;
+    margin-bottom: none;
+    margin-top: none;
+    height: 96px;
+}
+
+.clear {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}

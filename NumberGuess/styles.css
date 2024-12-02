@@ -1,0 +1,34 @@
+body {
+    font-family: 'Alata';
+    font-weight: normal;
+    font-size: 32px;
+    text-align: center;
+    background-image: linear-gradient(#b64444, #700c0c);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+textarea {
+    border: none;
+    font-size: 25px;
+    size: 25px;
+    resize: none;
+    text-align: center;
+    border-radius: 12px;
+    background-color: dimgray;
+    color: azure;
+}
+
+button {
+    margin: auto;
+    padding: none;
+    height: 40px;
+    width: 100px;
+    background: rgb(59, 59, 59);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 25px;
+}
+.hidden {
+    display: none;
+}
