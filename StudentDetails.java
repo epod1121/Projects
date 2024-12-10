@@ -4,9 +4,6 @@ class Student {
     String name;
     int age;
     double grade;
-
-    // Constructor (if you're familiar with it)
-    // Your code here
 }
 
 public class StudentDetails
